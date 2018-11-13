@@ -10,3 +10,4 @@ class Rectangle extends Base {
 		return new Point(this.x, this.y)
 	}
 }
+
