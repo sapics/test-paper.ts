@@ -1,0 +1,28 @@
+{
+  "name": "paper.ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/paper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sapics",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.0",
+    "gulp": "^3.*",
+    "gulp-concat": "^2.6.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "merge2": "^1.2.3"
+  }
+}

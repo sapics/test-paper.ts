@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "charset": "utf8",
+    "module": "commonjs",
+    "target": "es2018",
+    "sourceMap": true,
+    "types": [
+      "node"
+    ]
+  },
+  "exclude": [
+    "**/node_modules",
+    "**/trash-box"
+  ],
+  "include": [
+    "src/**/*.ts"
+  ]
+}
